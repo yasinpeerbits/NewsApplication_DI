@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NewsApplication"
+rootProject.name = "NewsInShort"
 include(":app")
+include(":utilities")
